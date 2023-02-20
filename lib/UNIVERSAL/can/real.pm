@@ -79,3 +79,23 @@ methods is appropriate.
 
 This module gives access to the real core L<UNIVERSAL::can|UNIVERSAL/can>
 function, even if the L<UNIVERSAL::can> module has been loaded and replaced it.
+
+=head1 AUTHOR
+
+haarg - Graham Knop (cpan:HAARG) <haarg@haarg.org>
+
+=head1 CONTRIBUTORS
+
+None so far.
+
+=head1 COPYRIGHT
+
+Copyright (c) 2023 the UNIVERSAL::can::real L</AUTHOR> and L</CONTRIBUTORS>
+as listed above.
+
+=head1 LICENSE
+
+This library is free software and may be distributed under the same terms
+as perl itself. See L<https://dev.perl.org/licenses/>.
+
+=cut
